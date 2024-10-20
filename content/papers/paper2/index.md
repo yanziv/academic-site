@@ -1,18 +1,18 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-lastmod: 2024-07-12
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+title: "Data Safety vs. App Privacy: Comparing the Usability of Android and iOS Privacy Labels" 
+date: 2024-03-20
+lastmod: 2024-10-20
+# tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
+author: ["Yanzi Lin", "Jaideep Juneja","Eleanor Birrell", "Lorrie Faith Cranor"]
+description: "This study investigates the usability of Android privacy labels and compares it to the usability of iOS labels. Published in the Proceedings of Privacy Enhancing Technologies Symposium, 2024." 
+summary: "This is the first study to investigate the usability of Android privacy labels since the mandate in July 2022. We compare their usability to that of iOS labels through a between-subjects, semi-structured interview study involving 12 Android users and 12 iOS users." 
 cover:
     image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    alt: "data omission in Android and iOS labels led to user confusion"
     relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+# editPost:
+#     URL: "https://github.com/pmichaillat/hugo-website"
+#     Text: "Journal of Canine Science"
 
 ---
 
@@ -20,19 +20,19 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk)
++ [Paper](https://petsymposium.org/popets/2024/popets-2024-0047.php)
+<!-- + [Online appendix](appendix2.pdf)
++ [Code and data](https://github.com/pmichaillat/wunk) -->
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Privacy labels---standardized, compact representations of data collection and data use practices---are often presented as a solution to the shortcomings of privacy policies. Apple introduced mandatory privacy labels for apps in its App Store in December 2020; Google introduced mandatory labels for Android apps in July 2022. iOS app privacy labels have been evaluated and critiqued in prior work. In this work, we evaluated Android Data Safety Labels and explored how differences between the two label designs impact user comprehension and label utility. We conducted a between-subjects, semi-structured interview study with 12 Android users and 12 iOS users. While some users found Android Data Safety Labels informative and helpful, other users found them too vague. Compared to iOS App Privacy Labels, Android users found the distinction between data collection groups more intuitive and found explicit inclusion of omitted data collection groups more salient. However, some users expressed skepticism regarding elided information about collected data type categories. Most users missed critical information due to not expanding the accordion interface, and they were surprised by collection practices excluded from Android's definitions. Our findings also revealed that Android users generally appreciated information about security practices included in the labels, and iOS users wanted that information added.
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+<!-- ##### Figure 2: Dimensions of a sausage dog
 
 ![](paper2.png)
 
@@ -59,4 +59,4 @@ url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs
 ##### Related material
 
 + [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
++ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs) -->

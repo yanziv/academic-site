@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://pascalmichaillat.org/hugo-website/" # don't change
+title: Veronica Lin
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -10,30 +10,30 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        # - name: Books
+        #   url: books/
+        #   weight: 5 
+        - name: Publications
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        # - name: Courses
+        #   url: courses/
+        #   weight: 3
+        # - name: Data
+        #   url: data/
+        #   weight: 4 
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I am a Ph.D. student in Societal Computing at Carnegie Mellon University."
+    author: Veronica Lin
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
+    defaultTheme: light # light, dark
+    hideFooter: true # footer shows that this is powered by Hugo
+    disableThemeToggle: true # switch between light and dark
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -42,7 +42,8 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["papers"]
+    # MainSections: ["books","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -52,48 +53,59 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          title: Veronica Lin 
+          subtitle: |
+              I'm Veronica 林彦孜 (she/her). I am a [Societal Computing](https://sc.cs.cmu.edu/) Ph.D. student at Carnegie Mellon University's School of Computer Science, advised by [Lorrie Cranor.](https://lorrie.cranor.org/) Previously, I attended Wellesley College, where I earned a B.A. in Computer Science and a minor in Philosophy. My research interests include IoT Privacy, Human-AI Collaboration, and Usable Security and Privacy.
+              <br><br>
+              Prior to starting my Ph.D., I worked on projects related to HCI, HRI, Usable Privacy and Security, and Accessibility through UROP with the MIT Media Lab and the REUSE program with CMU's Software and Societal Systems Department.
+              <br><br>
+              Outside of work, you'll find me playing tennis, trying out new recipes on 小红书, cafe hopping, and traveling.
+
+          imageUrl: "picture.jpg"
+          imageWidth: 175
+          imageHeight: 175
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
+            - name: CV
+              url: yanzi-cv.pdf
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+            # - name: Books
+            #   url: books/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:veronic2@andrew.cmu.edu
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://scholar.google.com/citations?user=xputv3AAAAAJ&hl=en
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/yanzil/
+        # - name: CV
+        #   url: yanzi-cv.pdf
+        # - name: Zoom
+        #   url: https://www.zoom.us/my/igelfeld
+        # - name: Location
+        #   url: location/
+        # - name: Office Hours
+        #   url: officehours/
+        # - name: GitHub
+        #   url: https://github.com/pmichaillat
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        # - name: YouTube
+        #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
+        # - name: Twitter
+        #   url: https://twitter.com/McCallSmith
 
     assets:
         disableScrollBarStyle: true
@@ -101,7 +113,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Veronica Lin"
       icon: favicon.ico
       iconHeight: 18
 

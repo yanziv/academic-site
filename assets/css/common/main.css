@@ -19,6 +19,7 @@
     font-size: 13px;
     line-height: 36px;
     background: var(--primary);
+    background: #c2a3fd;
     border-radius: calc(36px / 2);
     padding: 0 16px;
 }
@@ -38,7 +39,7 @@
 }
 
 .social-icons a:hover {
-    color: var(--darkcolor);
+    color: var(--periwinkle);
 }
 
 code {
@@ -74,3 +75,15 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+a {
+    color:var(--primary);
+    text-decoration: underline; 
+  }
+  
+  a:hover {
+    color: var(--periwinkle);
+    text-decoration: underline; /* Keeps the underline when hovered */
+  }
+
+
