@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Veronica Lin</title>
-    <link>http://localhost:52015/academic-site/</link>
+    <link>http://localhost:1313/academic-site/</link>
     <description>Recent content on Veronica Lin</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:52015/academic-site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/academic-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Location</title>
-      <link>http://localhost:52015/academic-site/location/</link>
+      <link>http://localhost:1313/academic-site/location/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52015/academic-site/location/</guid>
+      <guid>http://localhost:1313/academic-site/location/</guid>
       <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>http://localhost:52015/academic-site/officehours/</link>
+      <link>http://localhost:1313/academic-site/officehours/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52015/academic-site/officehours/</guid>
+      <guid>http://localhost:1313/academic-site/officehours/</guid>
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
     <item>
       <title>Data Safety vs. App Privacy: Comparing the Usability of Android and iOS Privacy Labels</title>
-      <link>http://localhost:52015/academic-site/papers/paper2/</link>
+      <link>http://localhost:1313/academic-site/papers/paper2/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52015/academic-site/papers/paper2/</guid>
+      <guid>http://localhost:1313/academic-site/papers/paper2/</guid>
       <description>This study investigates the usability of Android privacy labels and compares it to the usability of iOS labels. Published in the Proceedings of Privacy Enhancing Technologies Symposium, 2024.</description>
     </item>
     <item>
       <title>A US-UK Usability Evaluation of Consent Management Platform Cookie Consent Interface Design on Desktop and Mobile</title>
-      <link>http://localhost:52015/academic-site/papers/paper1/</link>
+      <link>http://localhost:1313/academic-site/papers/paper1/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52015/academic-site/papers/paper1/</guid>
+      <guid>http://localhost:1313/academic-site/papers/paper1/</guid>
       <description>This study examines the differences in attitudes and behavior towards cookie consent interfaces between the United Kingdom (UK) and United States (US) as well as between mobile phone users and users of other devices.  Published in CHI &amp;#39;23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems.</description>
     </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>http://localhost:52015/academic-site/data/data1/</link>
+      <link>http://localhost:1313/academic-site/data/data1/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52015/academic-site/data/data1/</guid>
+      <guid>http://localhost:1313/academic-site/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
       <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>http://localhost:52015/academic-site/courses/course1/</link>
+      <link>http://localhost:1313/academic-site/courses/course1/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52015/academic-site/courses/course1/</guid>
+      <guid>http://localhost:1313/academic-site/courses/course1/</guid>
       <description>This graduate course presents classical results in Romance philology.</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>http://localhost:52015/academic-site/books/book1/</link>
+      <link>http://localhost:1313/academic-site/books/book1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52015/academic-site/books/book1/</guid>
+      <guid>http://localhost:1313/academic-site/books/book1/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
     <item>
       <title>Profanity in Early Irish</title>
-      <link>http://localhost:52015/academic-site/courses/course2/</link>
+      <link>http://localhost:1313/academic-site/courses/course2/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52015/academic-site/courses/course2/</guid>
+      <guid>http://localhost:1313/academic-site/courses/course2/</guid>
       <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
   </channel>
