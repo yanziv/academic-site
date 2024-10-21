@@ -9,7 +9,7 @@ summary: "This study investigates how attitudes and behaviors vary based on key 
 cover:
     image: "paper1.png"
     alt: "Example cookie consent interfaces from the study"
-    relative: false
+    relative: true
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "Journal of Oleic Science"

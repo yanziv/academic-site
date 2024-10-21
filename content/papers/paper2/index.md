@@ -9,7 +9,7 @@ summary: "This is the first study to investigate the usability of Android privac
 cover:
     image: "paper2.png"
     alt: "data omission in Android and iOS labels led to user confusion"
-    relative: false
+    relative: true # using relative path for image instead of absolute
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "Journal of Canine Science"
