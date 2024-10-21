@@ -7,7 +7,7 @@ author: ["Yanzi Lin", "Jaideep Juneja","Eleanor Birrell", "Lorrie Faith Cranor"]
 description: "This study investigates the usability of Android privacy labels and compares it to the usability of iOS labels. Published in the Proceedings of Privacy Enhancing Technologies Symposium, 2024." 
 summary: "This is the first study to investigate the usability of Android privacy labels since the mandate in July 2022. We compare their usability to that of iOS labels through a between-subjects, semi-structured interview study involving 12 Android users and 12 iOS users." 
 cover:
-    image: "incompleteness.png"
+    image: "paper2.png"
     alt: "data omission in Android and iOS labels led to user confusion"
     relative: false
 # editPost:

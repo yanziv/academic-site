@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Veronica Lin</title>
-    <link>http://localhost:1313/academic-site/tags/</link>
+    <link>http://localhost:52015/academic-site/tags/</link>
     <description>Recent content in Tags on Veronica Lin</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/academic-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52015/academic-site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dataset</title>
-      <link>http://localhost:1313/academic-site/tags/dataset/</link>
+      <link>http://localhost:52015/academic-site/tags/dataset/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/dataset/</guid>
+      <guid>http://localhost:52015/academic-site/tags/dataset/</guid>
       <description></description>
     </item>
     <item>
       <title>French</title>
-      <link>http://localhost:1313/academic-site/tags/french/</link>
+      <link>http://localhost:52015/academic-site/tags/french/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/french/</guid>
+      <guid>http://localhost:52015/academic-site/tags/french/</guid>
       <description></description>
     </item>
     <item>
       <title>Irregular Verbs</title>
-      <link>http://localhost:1313/academic-site/tags/irregular-verbs/</link>
+      <link>http://localhost:52015/academic-site/tags/irregular-verbs/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/irregular-verbs/</guid>
+      <guid>http://localhost:52015/academic-site/tags/irregular-verbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Italian</title>
-      <link>http://localhost:1313/academic-site/tags/italian/</link>
+      <link>http://localhost:52015/academic-site/tags/italian/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/italian/</guid>
+      <guid>http://localhost:52015/academic-site/tags/italian/</guid>
       <description></description>
     </item>
     <item>
       <title>Philology</title>
-      <link>http://localhost:1313/academic-site/tags/philology/</link>
+      <link>http://localhost:52015/academic-site/tags/philology/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/philology/</guid>
+      <guid>http://localhost:52015/academic-site/tags/philology/</guid>
       <description></description>
     </item>
     <item>
       <title>Portuguese</title>
-      <link>http://localhost:1313/academic-site/tags/portuguese/</link>
+      <link>http://localhost:52015/academic-site/tags/portuguese/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/portuguese/</guid>
+      <guid>http://localhost:52015/academic-site/tags/portuguese/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/academic-site/tags/python/</link>
+      <link>http://localhost:52015/academic-site/tags/python/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/python/</guid>
+      <guid>http://localhost:52015/academic-site/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Romance Languages</title>
-      <link>http://localhost:1313/academic-site/tags/romance-languages/</link>
+      <link>http://localhost:52015/academic-site/tags/romance-languages/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/romance-languages/</guid>
+      <guid>http://localhost:52015/academic-site/tags/romance-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Simulations</title>
-      <link>http://localhost:1313/academic-site/tags/simulations/</link>
+      <link>http://localhost:52015/academic-site/tags/simulations/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/simulations/</guid>
+      <guid>http://localhost:52015/academic-site/tags/simulations/</guid>
       <description></description>
     </item>
     <item>
       <title>Spanish</title>
-      <link>http://localhost:1313/academic-site/tags/spanish/</link>
+      <link>http://localhost:52015/academic-site/tags/spanish/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/spanish/</guid>
+      <guid>http://localhost:52015/academic-site/tags/spanish/</guid>
       <description></description>
     </item>
     <item>
       <title>Portugese</title>
-      <link>http://localhost:1313/academic-site/tags/portugese/</link>
+      <link>http://localhost:52015/academic-site/tags/portugese/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/portugese/</guid>
+      <guid>http://localhost:52015/academic-site/tags/portugese/</guid>
       <description></description>
     </item>
     <item>
       <title>Celtic Languages</title>
-      <link>http://localhost:1313/academic-site/tags/celtic-languages/</link>
+      <link>http://localhost:52015/academic-site/tags/celtic-languages/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/celtic-languages/</guid>
+      <guid>http://localhost:52015/academic-site/tags/celtic-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Irish</title>
-      <link>http://localhost:1313/academic-site/tags/irish/</link>
+      <link>http://localhost:52015/academic-site/tags/irish/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/irish/</guid>
+      <guid>http://localhost:52015/academic-site/tags/irish/</guid>
       <description></description>
     </item>
     <item>
       <title>Language Modernization</title>
-      <link>http://localhost:1313/academic-site/tags/language-modernization/</link>
+      <link>http://localhost:52015/academic-site/tags/language-modernization/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/language-modernization/</guid>
+      <guid>http://localhost:52015/academic-site/tags/language-modernization/</guid>
       <description></description>
     </item>
     <item>
       <title>Profanity</title>
-      <link>http://localhost:1313/academic-site/tags/profanity/</link>
+      <link>http://localhost:52015/academic-site/tags/profanity/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-site/tags/profanity/</guid>
+      <guid>http://localhost:52015/academic-site/tags/profanity/</guid>
       <description></description>
     </item>
   </channel>

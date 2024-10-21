@@ -7,7 +7,7 @@ author: ["Elijah Robert Bouma-Sims","Megan Li","Yanzi Lin","Adia Sakura-Lemessy"
 description: "This study examines the differences in attitudes and behavior towards cookie consent interfaces between the United Kingdom (UK) and United States (US) as well as between mobile phone users and users of other devices.  Published in CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems." 
 summary: "This study investigates how attitudes and behaviors vary based on key elements of CMP(Consent Management Platform)-implemented cookie banner design, including banner prominence, the location of cookie category definitions, and the initial cookie options displayed. The analysis compares differences between users in the United Kingdom (UK) and the United States (US), as well as between mobile phone users and users of other devices." 
 cover:
-    image: "us-uk-cmp.png"
+    image: "paper1.png"
     alt: "Example cookie consent interfaces from the study"
     relative: false
 # editPost:
