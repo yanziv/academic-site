@@ -33,12 +33,12 @@ Websites implement cookie consent interfaces to obtain users’ permission to us
 
 ---
 
-<!-- ##### Figure 6: Some Uses For Olive Oil
+ ##### Example cookie consent interfaces from the study
 
 ![](paper1.png)
 
 ---
-
+<!--
 ##### Citation
 
 Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
