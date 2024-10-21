@@ -1,5 +1,6 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" # don't change
+baseURL: "https://yanziv.github.io/" 
 title: Veronica Lin
+paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true

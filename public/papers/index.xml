@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Papers on Veronica Lin</title>
-    <link>http://localhost:1313/hugo-website/papers/</link>
+    <link>http://localhost:1313/papers/</link>
     <description>Recent content in Papers on Veronica Lin</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/papers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Safety vs. App Privacy: Comparing the Usability of Android and iOS Privacy Labels</title>
-      <link>http://localhost:1313/hugo-website/papers/paper2/</link>
+      <link>http://localhost:1313/papers/paper2/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/papers/paper2/</guid>
+      <guid>http://localhost:1313/papers/paper2/</guid>
       <description>This study investigates the usability of Android privacy labels and compares it to the usability of iOS labels. Published in the Proceedings of Privacy Enhancing Technologies Symposium, 2024.</description>
     </item>
     <item>
       <title>A US-UK Usability Evaluation of Consent Management Platform Cookie Consent Interface Design on Desktop and Mobile</title>
-      <link>http://localhost:1313/hugo-website/papers/paper1/</link>
+      <link>http://localhost:1313/papers/paper1/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/papers/paper1/</guid>
+      <guid>http://localhost:1313/papers/paper1/</guid>
       <description>This study examines the differences in attitudes and behavior towards cookie consent interfaces between the United Kingdom (UK) and United States (US) as well as between mobile phone users and users of other devices.  Published in CHI &amp;#39;23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems.</description>
     </item>
   </channel>
