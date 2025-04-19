@@ -69,8 +69,8 @@ params:
             - name: Publications
               url: papers/
 
-            - name: CV
-              url: yanzi-cv.pdf
+            # - name: CV
+            #   url: yanzi-cv.pdf
             # - name: Courses
             #   url: courses/
             # - name: Data
