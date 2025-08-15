@@ -34,7 +34,7 @@ params:
     DateFormat: "January 2006"
     defaultTheme: light # light, dark
     hideFooter: true # footer shows that this is powered by Hugo
-    disableThemeToggle: true # switch between light and dark
+    disableThemeToggle: false # switch between light and dark
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -56,18 +56,20 @@ params:
           enabled: true
           title: Veronica Lin 
           subtitle: |
-              I'm Veronica 林彦孜 (she/her). I am a [Societal Computing](https://sc.cs.cmu.edu/) Ph.D. student at Carnegie Mellon University's School of Computer Science, advised by [Lorrie Cranor.](https://lorrie.cranor.org/) Previously, I attended Wellesley College, where I earned a B.A. in Computer Science and a minor in Philosophy. My research interests include IoT Privacy, Human-AI Collaboration, and Usable Security and Privacy.
+              I'm Veronica 林彦孜 (she/her). I am a [Societal Computing](https://sc.cs.cmu.edu/) Ph.D. student at Carnegie Mellon University's School of Computer Science, advised by [Lorrie Cranor.](https://lorrie.cranor.org/) Previously, I attended Wellesley College, where I earned a B.A. in Computer Science and a minor in Philosophy. My research interests include IoT Privacy, Tech Policy, and Usable Security and Privacy.
               <br><br>
               Prior to starting my Ph.D., I worked on projects related to HCI, HRI, Usable Privacy and Security, and Accessibility through UROP with the MIT Media Lab and the REUSE program with CMU's Software and Societal Systems Department.
               <br><br>
               Outside of work, you'll find me playing tennis, trying out new recipes on 小红书, cafe hopping, and traveling.
+              <br><br>
+              <strong>Contact:</strong> veronic2 [at] andrew [dot] cmu [dot] edu
 
           imageUrl: "picture.jpg"
           imageWidth: 175
           imageHeight: 175
           buttons:
-            - name: Publications
-              url: papers/
+            # - name: Publications
+            #   url: papers/
 
             # - name: CV
             #   url: yanzi-cv.pdf
@@ -85,8 +87,7 @@ params:
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: Email
-          url: mailto:veronic2@andrew.cmu.edu
+
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=xputv3AAAAAJ&hl=en
         - name: LinkedIn
