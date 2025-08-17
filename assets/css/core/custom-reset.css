@@ -1,2 +1,16 @@
-/* Background is now handled by inline styles in baseof.html */
-/* All background rules commented out to avoid conflicts */ 
+/* Custom reset overrides - loaded after theme reset.css */
+
+/* Override body background to use image instead of solid color */
+body,
+body.list {
+  background: url("/b1.jpg") no-repeat center/cover fixed !important;
+}
+
+/* Neutralize the list background to transparent so image shows */
+.list {
+  background: transparent !important;
+}
+
+.dark.list {
+  background: transparent !important;
+} 
